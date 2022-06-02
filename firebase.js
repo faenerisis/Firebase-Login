@@ -8,7 +8,7 @@ import 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyC_P9sOM4Sxi1Z4ds0QzFAornu2tj4gieE',
+  //apiKey: 'Your apikey should be different so please insert your apikey here',
   authDomain: 'internf-auth.firebaseapp.com',
   projectId: 'internf-auth',
   storageBucket: 'internf-auth.appspot.com',
