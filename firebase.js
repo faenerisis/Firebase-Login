@@ -8,12 +8,7 @@ import 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'Your apikey should be different so please insert your apikey here',
-  authDomain: 'internf-auth.firebaseapp.com',
-  projectId: 'internf-auth',
-  storageBucket: 'internf-auth.appspot.com',
-  messagingSenderId: '308106702462',
-  appId: '1:308106702462:web:2f37269a01fa379ab1722f',
+  //You get this code from the Firebase
 };
 
 // Initialize Firebase
